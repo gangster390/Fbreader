@@ -217,4 +217,4 @@ FBReader is available as a full free version with all features and updates inclu
 Download FBReader today and elevate your eBook reading experience to new heights!
 
 ---
-**Last updated:** 2026-09-21 00:40:31 UTC
+**Last updated:** 2026-09-21 05:41:12 UTC
